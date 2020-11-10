@@ -1,0 +1,8 @@
+{
+  "name": "place-order",
+  "version": "1.0.0",
+  "main": "placeOrder.js",
+  "dependencies": {
+    "nodemailer": "^6.4.14"
+  }
+}

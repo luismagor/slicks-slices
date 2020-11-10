@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24755ff5-31e8-44db-bcc9-803966475866" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1iyeUOcEHSw7RAfhhTJZ3XNQPg1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gatsby" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="es6.move.members.recent.items">
+      <recent name="$PROJECT_DIR$/gatsby/src/utils/calculateOrderTotal.js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gatsby" />
+      <recent name="$PROJECT_DIR$/sanity/schemas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Gatsby Develop">
+    <configuration name="Gatsby Develop" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/gatsby/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="netlify dev" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/gatsby/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="netlify" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="sanity studio" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/sanity/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.Gatsby Develop" />
+      <item itemvalue="npm.netlify dev" />
+      <item itemvalue="npm.sanity studio" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24755ff5-31e8-44db-bcc9-803966475866" name="Default Changelist" comment="" />
+      <created>1602884274606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602884274606</updated>
+      <workItem from="1602884275819" duration="936000" />
+      <workItem from="1602961391759" duration="5026000" />
+      <workItem from="1603035195065" duration="4451000" />
+      <workItem from="1603127054858" duration="7871000" />
+      <workItem from="1603220626531" duration="2737000" />
+      <workItem from="1603223470844" duration="2173000" />
+      <workItem from="1603292115645" duration="5602000" />
+      <workItem from="1603380881852" duration="9776000" />
+      <workItem from="1603551015638" duration="6719000" />
+      <workItem from="1603715213166" duration="3958000" />
+      <workItem from="1603737401161" duration="572000" />
+      <workItem from="1603811071303" duration="7720000" />
+      <workItem from="1603984529479" duration="10103000" />
+      <workItem from="1604523293723" duration="3454000" />
+      <workItem from="1604584171691" duration="9114000" />
+      <workItem from="1604761060147" duration="4782000" />
+      <workItem from="1605003539562" duration="1558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="67" y="210" width="1084" height="756" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604006038361">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="210" width="1084" height="756" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1604006038361" />
+    <state x="292" y="346" width="657" height="413" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604590704932">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="292" y="346" width="657" height="413" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1604590704932" />
+    <state x="432" y="498" width="187" height="108" key="#com.intellij.ide.util.TreeDirectoryChooserDialog" timestamp="1604589606719">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="432" y="498" width="187" height="108" key="#com.intellij.ide.util.TreeDirectoryChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1604589606719" />
+    <state x="577" y="260" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603822220969">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="577" y="260" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1603822220969" />
+    <state width="1181" height="280" key="GridCell.Tab.0.bottom" timestamp="1604765865568">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1181" height="280" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1604765865568" />
+    <state width="1181" height="280" key="GridCell.Tab.0.center" timestamp="1604765865567">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1181" height="280" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1604765865567" />
+    <state width="1181" height="280" key="GridCell.Tab.0.left" timestamp="1604765865566">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1181" height="280" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1604765865566" />
+    <state width="1181" height="280" key="GridCell.Tab.0.right" timestamp="1604765865567">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1181" height="280" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1604765865567" />
+    <state x="359" y="133" key="SettingsEditor" timestamp="1604523798018">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="359" y="133" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1604523798018" />
+    <state x="617" y="356" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1603389518079">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="617" y="356" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/67.27.1853.1053@67.27.1853.1053" timestamp="1603389518079" />
+    <state x="193" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1604765426292">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="193" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1604765426292" />
+  </component>
+</project>
